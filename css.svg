@@ -10,6 +10,7 @@
             .custom-text {
               font-size: 28px;
               font-weight: bold;
+              font-align: center;
             }
           </style>
           <h1>README</h1>
