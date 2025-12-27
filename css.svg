@@ -4,16 +4,16 @@
           <style>
             /* Your CSS rules here */
             h1 {
-              color: blue;
+              color: white;
               font-family: sans-serif;
             }
             .custom-text {
-              font-size: 18px;
+              font-size: 28px;
               font-weight: bold;
             }
           </style>
-          <h1>Welcome!</h1>
-          <p class="custom-text">This is a custom-styled element.</p>
+          <h1>README</h1>
+          <p class="custom-text"></p>
         </div>
       </foreignObject>
     </svg>
